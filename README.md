@@ -53,9 +53,15 @@
     <a href="https://auth.geeksforgeeks.org/user/0708suzzie/profile" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="user/0708suzzie/profile" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/0708Suzzie" target="blank"><img align="center"
+    <a href="https://codeforces.com/profile/0708Suzzie" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
             alt="profile/0708Suzzie" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/r_0708suzzie" target="blank"><img align="center"
+            src="https://cdn.codechef.com/images/cc-logo.svg"
+            alt="users/r_0708suzzie" height="30" width="40" /></a>
+    <a href="https://leetcode.com/0708Suzzie/" target="blank"><img align="center"
+            src="[https://cdn.codechef.com/images/cc-logo.svg](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)"
+            alt="0708Suzzie/" height="30" width="40" /></a>
 </p>
 
 
