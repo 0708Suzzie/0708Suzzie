@@ -60,7 +60,7 @@
             src="https://cdn.codechef.com/images/cc-logo.svg"
             alt="users/r_0708suzzie" height="30" width="40" /></a>
     <a href="https://leetcode.com/0708Suzzie/" target="blank"><img align="center"
-            src="[https://cdn.codechef.com/images/cc-logo.svg](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)"
+            src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png"
             alt="0708Suzzie/" height="30" width="40" /></a>
 </p>
 
