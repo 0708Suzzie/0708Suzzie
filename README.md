@@ -10,7 +10,6 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm a writer too
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=0708Suzzie&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
