@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0708Suzzie&label=Profile%20views&color=0e75b6&style=flat" alt="0708Suzzie" /> </p>
 
 - 🔭 I’m currently working on Machine learning and Deep learning projects
-- 🌱 I’m currently specializing in Machine Learning and trying to learn about system designing 
-- 👯 I’m looking to collaborate on research papers on ML/DL/NLP
-- 💬 Ask me about cool Math problems, cool DSA problems, cool ML projects and research papers
+- 🌱 I’m currently specializing in GANs & RL 
+- 👯 I’m looking to collaborate on building AI products
+- 💬 Ask me about cool research problems
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm a writer too
+- ⚡ Fun fact: water doesnt absorb or reflect light which is why it's clear. I like water. 
 
 
 <h3 align="left">Languages and Tools:</h3>
